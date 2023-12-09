@@ -1,4 +1,4 @@
-﻿using System;
+﻿//Средний уровень 3 вариант
 
 Console.Write("Введите количество сотрудников: ");
 int employeeCount = int.Parse(Console.ReadLine());
